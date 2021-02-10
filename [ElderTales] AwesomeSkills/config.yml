@@ -1,0 +1,35 @@
+skills:
+  Strength:
+    # De combien doit être amélioré les statistiques en jeu pour chaque niveau
+    # Ex : levelAmount = 1 ; Niveau 2 = 2x1 = 2 coeurs en plus (Endurance)
+    # Type : Nombre entier / Nombre décimal
+    levelAmount: 1.0
+    # Niveau maximum de la caractéristique
+    # Type : Nombre entier uniquement
+    maxLevel: 5
+    # Toutes les combien d'améliorations le prix augmente de upgradeAmount
+    # Type : Nombre entier uniquement
+    upgradeEach: 10
+    # De combien le prix augmente à chaque upgrade (toutes les upgradeEach)
+    # Type : Nombre entier uniquement
+    upgradeAmount: 1
+  Endurance:
+    levelAmount: 1.0
+    maxLevel: 5
+    upgradeEach: 10
+    upgradeAmount: 1
+  Agility:
+    levelAmount: 1.0
+    maxLevel: 5
+    upgradeEach: 10
+    upgradeAmount: 1
+  Defense:
+    levelAmount: 1.0
+    maxLevel: 5
+    upgradeEach: 10
+    upgradeAmount: 1
+  Intelligence:
+    levelAmount: 1.0
+    maxLevel: 5
+    upgradeEach: 10
+    upgradeAmount: 1

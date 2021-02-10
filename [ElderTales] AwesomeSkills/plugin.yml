@@ -1,0 +1,7 @@
+name: AwesomeSkills
+version: 1.0
+author: MINTY
+main: com.minty.eldertales.skills.AwesomeSkills
+commands:
+  skills:
+    description: main skills command
